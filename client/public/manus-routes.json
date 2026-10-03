@@ -1,0 +1,32 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Global Impact Holdings SARL"
+    },
+    {
+      "path": "/services/:slug",
+      "title": "Service Global Impact"
+    },
+    {
+      "path": "/partenaires",
+      "title": "Partenaires"
+    },
+    {
+      "path": "/contact",
+      "title": "Contact"
+    },
+    {
+      "path": "/connexion",
+      "title": "Connexion"
+    },
+    {
+      "path": "/inscription",
+      "title": "Inscription"
+    },
+    {
+      "path": "/mon-espace",
+      "title": "Mon espace"
+    }
+  ]
+}
